@@ -18,10 +18,10 @@ $ source scripts/activate
 ```
 
 ```sh
-$ git clone https://github.com/${GITHUB_USERNAME}/lab04 projects/lab05
-$ cd projects/lab05
+$ git clone https://github.com/${GITHUB_USERNAME}/lab04 projects/lab06
+$ cd projects/lab06
 $ git remote remove origin
-$ git remote add origin https://github.com/${GITHUB_USERNAME}/lab05
+$ git remote add origin https://github.com/${GITHUB_USERNAME}/lab06
 ```
 
 ```sh
@@ -86,7 +86,7 @@ $ cmake --build _build --target test -- ARGS=--verbose
 ```
 
 ```sh
-$ gsed -i 's/lab04/lab05/g' README.md
+$ gsed -i 's/lab04/lab06/g' README.md
 $ gsed -i 's/\(DCMAKE_INSTALL_PREFIX=_install\)/\1 -DBUILD_TESTS=ON/' .travis.yml
 $ gsed -i '/cmake --build _build --target install/a\
 - cmake --build _build --target test -- ARGS=--verbose
