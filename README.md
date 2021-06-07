@@ -7,7 +7,7 @@
 ### Ход выполнения `Tutorial`:
 
 ```sh
-$ export GITHUB_USERNAME=<имя_пользователя>
+$ export GITHUB_USERNAME=themilchenko
 $ alias gsed=sed # for *-nix system
 ```
 
