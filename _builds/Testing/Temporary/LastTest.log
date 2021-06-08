@@ -1,0 +1,19 @@
+Start testing: Jun 08 14:06 MSK
+----------------------------------------------------------
+Unable to find executable: /home/milchenko/themilchenko/workspace/projects/lab07/_builds/check
+1/1 Testing: check
+1/1 Test: check
+Command: ""
+Directory: /home/milchenko/themilchenko/workspace/projects/lab07/_builds
+"check" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"check" end time: Jun 08 14:06 MSK
+"check" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 08 14:06 MSK
